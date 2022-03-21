@@ -7,6 +7,7 @@ This week's topics:
 - Hands on training : Numpy arrays 
 - Image convolution
   https://setosa.io/ev/image-kernels
+  https://www.youtube.com/watch?v=FmpDIaiMIeA
 - DL Glossary
 - [Convolutional Neural Networks](DLBasics_SimpleCNN.ipynb)
 - [Data augmentation with cats](DLBasics_KerasDataAugmentation.ipynb)
