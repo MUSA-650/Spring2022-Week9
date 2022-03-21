@@ -1,10 +1,11 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week8: Deep Learning Basics
+## Week9: Deep Learning - Part 2
 
-This repository contains:
+This week's topics:
 
-- [A first DL application using multi-layer perceptron](DL_Basics1_SimpleMLP.ipynb)
+- Hands on training : Numpy arrays 
+- DL Glossary
 - [Convolutional Neural Networks](DLBasics_SimpleCNN.ipynb)
 - [Data augmentation with cats](DLBasics_KerasDataAugmentation.ipynb)
 
@@ -18,5 +19,3 @@ Data for the notebooks is in:
 
 This is a practical session. Please be ready to run the code on your own computers during ans/or after the class. More background information will follow in next classes!
 
-Midterm poll:
-https://forms.gle/5EqJvanKmGMHXtyT6
